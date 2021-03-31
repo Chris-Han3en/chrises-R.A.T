@@ -9,6 +9,8 @@ There a few built in commands such as
 * Mario/tetris theme sounds which play through the console
 * PC Shutdown command
 
+The foundation is there and you can add whatever commands you want.
+
 # How to add commands
 Both the client and the server have .cs files named commands which when you enter you can see. To add new command for the server you have to put an if statement with the words you want to put to start the command then send that command over the server (look at defult commands for example), you also have to add the command names at the top of the file otherwise it wont recognize the command. Then to go client and then you put an if statement saying if the command recieved contains or is equal to the keyword then to run the cs code. (look at defult commands for example)
 
