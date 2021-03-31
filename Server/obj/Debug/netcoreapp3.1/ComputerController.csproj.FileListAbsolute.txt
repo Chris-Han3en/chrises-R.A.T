@@ -1,0 +1,39 @@
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.csprojAssemblyReference.cache
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.AssemblyInfoInputs.cache
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.AssemblyInfo.cs
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.csproj.CoreCompileInputs.cache
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.exe
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.deps.json
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.runtimeconfig.json
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.runtimeconfig.dev.json
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.dll
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.pdb
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.dll
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.pdb
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.genruntimeconfig.cache
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.exe
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.deps.json
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.runtimeconfig.json
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.runtimeconfig.dev.json
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.dll
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.pdb
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.csprojAssemblyReference.cache
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.AssemblyInfoInputs.cache
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.AssemblyInfo.cs
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.csproj.CoreCompileInputs.cache
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.dll
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.pdb
+C:\Users\HawkB\OneDrive\Documents\Coding\C#\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.genruntimeconfig.cache
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.exe
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.deps.json
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.runtimeconfig.json
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.runtimeconfig.dev.json
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.dll
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\bin\Debug\netcoreapp3.1\ComputerController.pdb
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.csprojAssemblyReference.cache
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.AssemblyInfoInputs.cache
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.AssemblyInfo.cs
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.csproj.CoreCompileInputs.cache
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.dll
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.pdb
+E:\coding folder\c#\Malware\project_BSOD\ComputerController\ComputerController\obj\Debug\netcoreapp3.1\ComputerController.genruntimeconfig.cache
